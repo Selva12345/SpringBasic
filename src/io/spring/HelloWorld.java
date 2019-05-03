@@ -1,5 +1,6 @@
 package io.spring;
 
+
 	public class HelloWorld {
 		   private String message;
 
